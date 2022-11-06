@@ -18,7 +18,7 @@ class Netstat {
             String netstatABE = "netstat -abe";
             String netstatABEN = "netstat -aben";
 
-            System.out.println("Choose a netstat command to run:");
+            System.out.println("\n Choose a netstat command to run:");
             System.out.println("1. netstat");
             System.out.println("2. netstat -a");
             System.out.println("3. netstat -ab");
